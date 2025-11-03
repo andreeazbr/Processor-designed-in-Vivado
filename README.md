@@ -77,5 +77,3 @@ This project implements a **minimal processor** on an FPGA using **SystemVerilog
 This project is **open-source** and can be used or modified for educational purposes or experimentation.
 
 
-## Project Structure
-
